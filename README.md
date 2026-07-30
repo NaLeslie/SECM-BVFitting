@@ -2,9 +2,10 @@
 Program for fitting SECM images pairs with Butler-Volmer Kinetics
 
 ## Usage
+Unzipping `if_252mV-3.zip` (~47MB uncompressed) gives an example instruction file which the given SecmBV.java is set-up to fit.  
 Linux commands shown here. COMSOL is called from the console slightly differently on Windows.
 - Edit any of the physical parameters defined at the top of the SecmBV class.
-- Edit `control_file = ""` in the main method of the example implementation to the desired instruction file.
+- Edit `control_file = ""` in the main method to the desired instruction file (or leave alone if fitting the file in `if_252mV-3.zip`).
 - Compile: `comsol compile SecmBV.java`
 - Run: `comsol batch -inputfile SecmBV.class -batchlog batlog.log > fitlog.log`
 
