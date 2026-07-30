@@ -31,5 +31,5 @@ Switch defines whether the pixel at the given set of coordinates is initially 'r
 
 ## Publication
 This work is associated with the publication:  
-Leslie, N.; Mauzeroll, J. Quantification of Butler-Volmer Electron Transfer Kinetics from Scanning Electrochemical Microscopy Images. ACS Electrochemistry 
+Leslie, N.; Mauzeroll, J. Quantification of Butler-Volmer Electron Transfer Kinetics from Scanning Electrochemical Microscopy Images. ACS Electrochemistry  
 which is currently under peer review.
